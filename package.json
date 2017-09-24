@@ -1,0 +1,22 @@
+{
+  "name": "store_game",
+  "version": "1.0.0",
+  "description": "game where you buy and sell stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentPauley/store_game.git"
+  },
+  "author": "Vincent Pauley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentPauley/store_game/issues"
+  },
+  "homepage": "https://github.com/VincentPauley/store_game#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
